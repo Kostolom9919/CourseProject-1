@@ -1,1 +1,1 @@
-# CourseProject-1
+# CourseProject№1 C#
